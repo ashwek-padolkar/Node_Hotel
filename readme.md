@@ -4,8 +4,8 @@ The Node Hotel application is a Node.js-based system developed using the Express
 ## Endpoints
 
 ### Persons
-Add a Person:
-Endpoint: POST /person
+#### Add a Person:
+##### Endpoint: POST /person
 Description: Adds a person to the system with details such as name, role, etc.
 
 Get All Persons:
